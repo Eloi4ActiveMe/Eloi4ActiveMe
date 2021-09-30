@@ -5,7 +5,7 @@ This account is a wall between my hobby and my work for [ActiveMe](https://www.a
 Most of the projects and code are going to be private.   
 If you see a public repository on this account it means:
 - it has **no direct link** to a NDA (non disclosure agreement)
-- makes it public should not have impact on the clients
+- makes it public has not have impact on the clients
 - we agree with ActiveMe to keep it public for education purpose
 
 
